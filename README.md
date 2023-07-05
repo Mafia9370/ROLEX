@@ -1,7 +1,7 @@
 # rm -rf ROLEX MIX
 
-git clone https://github.com/Mafia9370/ROLEX.git
+# git clone https://github.com/Mafia9370/ROLEX.git
 
-cd ROLEX
+# cd ROLEX
 
-python ROLEX.cpython-311.pyc
+# python ROLEX.cpython-311.pyc
